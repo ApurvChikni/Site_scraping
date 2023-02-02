@@ -1,0 +1,88 @@
+Id,school_name,zip_code,state,city,address,first_name,last_name,title,phone_num,email
+1,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Baisch,Allison,Kindergarten Teacher,(952) 442-0690,abaisch@isd110.org
+2,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Baune,Keith,Principal,(952) 442-0690,kbaune@isd110.org
+3,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Benham,Allyson,Grade 3 Teacher,(952) 442-0690,abenham@isd110.org
+4,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Bixby,Tyler,Educational Assistant (Special Education),(952) 442-0690,tbixby@isd110.org
+5,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Bjerke,Alexa,Kids' Company Lead,(952) 442-0610,abjerke@isd110.org
+6,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Bloem,Jennifer,Nutritional Assistant,(952) 442-0670,jbloem@isd110.org
+7,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Bolton,Marie,Educational Assistant,(952) 442-0690,mbolton@isd110.org
+8,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Brueggemann-Swanson,Shannon,Educational Assistant,(952) 442-0690,sswanson@isd110.org
+9,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Burdick,Jessica,Learning Disabilities Teacher,(952) 442-0690,jburdick@isd110.org
+10,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Burroughs,Rene,Administrative Assistant,(952) 442-0690,rburroughs@isd110.org
+11,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Butzer,Lindsay,School Counselor,(952) 442-0690,lbutzer@isd110.org
+12,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Carda,Brenna,Spanish Teacher,(952) 442-0690,bcarda@isd110.org
+13,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Carlson,Noreen,Vocal and Classroom Music Teacher,(952) 442-0690,ncarlson@isd110.org
+14,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Chapman,Alycia,Custodial/Maintenance Night Lead,(952) 442-0690,achapman@isd110.org
+15,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Davidson,Cory,Health Associate,(952) 442-0600,cdavidson@isd110.org
+16,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Deming,Jennifer,Educational Assistant (Special Education),(952) 442-0690,jdeming@isd110.org
+17,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Ditsch,Emilee,Grade 1 Teacher,(952) 442-0630,editsch@isd110.org
+18,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Drew,Megan,DAPE Teacher,(952) 442-0630,mdrew@isd110.org
+19,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Durkin,Hanna,Special Education Teacher,(952) 442-0690,hdurkin@isd110.org
+20,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Eisenmann,Nicole,Grade 4 Teacher,(952) 442-0690,neisenmann@isd110.org
+21,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Esterberg,Jacob,Instrumental Music Teacher,(952) 442-0630,jesterberg@isd110.org
+22,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Finnerty,Kelly,Nutritional Assistant,(952) 442-0620,kfinnerty@isd110.org
+23,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Franklin,Abby,Educational Assistant (Special Education),(952) 442-0690,afranklin@isd110.org
+24,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Fredericksen,Andrew,Developmental Disabilities Teacher,(952) 442-0690,afredericksen@isd110.org
+25,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gaarder,Samantha,Grade 2 Teacher,(952) 442-0690,sgaarder@isd110.org
+26,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gentz,Lisa,Custodial Cleaner,(952) 442-0690,lgentz@isd110.org
+27,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gingras,Laura,Media & Digital Learning Coordinator,(952) 442-0690,lgingras@isd110.org
+28,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gorans,Michelle,Licensed School Nurse,(952) 442-0690,mgorans@isd110.org
+29,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Greer,Angie,Grade 4 Teacher,(952) 442-0690,agreer@isd110.org
+30,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Guethling,Sara,Grade 2 Teacher,(952) 442-0690,sguethling@isd110.org
+31,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gunderson,Mike,Educational Assistant,(952) 442-0610,mgunderson@isd110.org
+32,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Gustafson,Stacy,Kindergarten Teacher,(952) 442-0690,sgustafson@isd110.org
+33,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Hallermann,Sara,Deaf and Hard of Hearing Teacher,(952) 442-0620,shallermann@isd110.org
+34,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Haug,Jaclyn,Educational Assistant (Special Education),(952) 442-0690,jhaug@isd110.org
+35,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Heldt,Tricia,Grade 5 Teacher,(952) 442-0690,theldt@isd110.org
+36,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Huepenbecker,Annee,Nutritional Assistant,(952) 442-0690,ahuepenbecker@isd110.org
+37,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Jacobs,Betsy,Media Assistant,(952) 442-0690,bjacobs@isd110.org
+38,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Johnson,Brittany,Grade 3 Teacher,(952) 442-0690,bjohnson@isd110.org
+39,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Jones,Lynda,Educational Assistant (Special Education),(952) 442-0690,ljones@isd110.org
+40,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Kalthoff,Lisa,Grade 1 Teacher,(952) 442-0690,lkalthoff@isd110.org
+41,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Karels,Ashley,Kids' Company Site Lead,(952) 442-0630,akarels@isd110.org
+42,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Kern,Elmira,Educational Assistant (Special Education),(952) 442-0690,ekern@isd110.org
+43,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Kruger,Jillian,Grade 5 Teacher,(952) 442-0690,jkruger@isd110.org
+44,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Larson,Amanda,Health Associate,(952) 442-0650,alarson@isd110.org
+45,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Larson,Lori,Autism Spectrum Disorders Teacher,(952) 442-0630,llarson@isd110.org
+46,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Larson,Nicole,Educational Assistant (Special Education),(952) 442-0690,nlarson@isd110.org
+47,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,LaTour,Courtney,Kindergarten Teacher,(952) 442-0690,clatour@isd110.org
+48,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Laumann,Tabitha,Educational Assistant (Special Education),(952) 442-0690,tlaumann@isd110.org
+49,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Ledoux,Heather,Educational Assistant (Special Education),(952) 442-0690,hledoux@isd110.org
+50,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Lee,Heather,Educational Assistant (Special Education),(952) 442-0690,hlee@isd110.org
+51,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Leventry,Kailee,Health Associate,(952) 442-0600,kleventry@isd110.org
+52,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Mailey,Sari,Speech/Language Pathologist,(952) 442-0690,smailey@isd110.org
+53,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Marsden,Steve,PE Teacher,(952) 442-0690,smarsden@isd110.org
+54,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Mayer,Mindy,Educational Assistant,(952) 442-0690,mmayer@isd110.org
+55,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,McKeever,Lorae,Speech/Language Pathologist,(952) 442-0690,lmckeever@isd110.org
+56,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,McNeill,Devin,Grade 5 Teacher,(952) 442-0630,dmcneill@isd110.org
+57,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Mereness,Allison,Mobile Web Technology Specialist,(952) 856-4519,amereness@isd110.org
+58,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Nenovich,Katelyn,MN Reading Corps,(952) 442-0690,knenovich@isd110.org
+59,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Norris,Amy,Educational Assistant (Special Education),(952) 442-0690,anorris@isd110.org
+60,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Oscarson,Molly,Kindergarten Teacher,(952) 442-0690,moscarson@isd110.org
+61,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Poehler,Sommer,Kids' Company Lead,(952) 442-0610,spoehler@isd110.org
+62,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Potter,Peter,Visual Arts Teacher,(952) 442-0690,ppotter@isd110.org
+63,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Reed,Lauren,Grade 1 Teacher,(952) 442-0690,lreed@isd110.org
+64,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Roman,Valarie,Educational Assistant (Special Education),(952) 442-7000,vroman@isd110.org
+65,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Schimelpfenig,Kelly,Custodial Cleaner,(952) 442-0600,kschimelpfenig@isd110.org
+66,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Scholla,Linda,Special Education Teacher,(952) 442-0690,lscholla@isd110.org
+67,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Schwab,Amy,Head Cook,(952) 442-0690,aschwab@isd110.org
+68,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Seltz,Andy,Day Lead Custodian,(952) 442-0690,aseltz@isd110.org
+69,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Sherman,Monica,English as a Second Language Teacher,(952) 442-0600,msherman@isd110.org
+70,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Siemens,Genell,Elementary Principal Secretary,(952) 442-0690,gsiemens@isd110.org
+71,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Skerik,Heidi,Grade 3 Teacher,(952) 442-0690,hskerik@isd110.org
+72,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Smith,Jeff,MN Reading Corps,(952) 442-0690,jsmith@isd110.org
+73,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Smith,Keyla,Educational Assistant (Special Education),(952) 442-0690,ksmith@isd110.org
+74,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Sonnek,Rebecca,School Psychologist,(952) 442-0600,rsonnek@isd110.org
+75,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Steinhagen,Jennifer,Educational Assistant,(952) 442-0690,jsteinhagen@isd110.org
+76,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Stejskal,Amanda,Grade 2 Teacher,(952) 442-0690,astejskal@isd110.org
+77,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Stifter,Mary,Assistant Head Cook,(952) 442-0690,mstifter@isd110.org
+78,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Stockinger,Heather,Grade 3 Teacher,(952) 442-0690,hstockinger@isd110.org
+79,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Thaemert,Katherine,Educational Assistant,(952) 442-0690,kthaemert@isd110.org
+80,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Treberg,Kristin,Grade 4 Teacher,(952) 442-0690,ktreberg@isd110.org
+81,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Turnquist,Andrea,Reading Specialist,(952) 442-0690,aturnquist@isd110.org
+82,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Van Eyll,Toni,Occupational Therapist,(952) 442-0600,tvaneyll@isd110.org
+83,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Walker,Bethany,Grade 1 Teacher,(952) 442-0690,bwalker@isd110.org
+84,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Watts,Susan,Educational Assistant (Special Education),(952) 442-0690,swatts@isd110.org
+85,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Wedge,Corey,Grade 5 Teacher,(952) 442-0690,cwedge@isd110.org
+86,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Whitehead,William,MN Math Corps,(952) 442-0690,wwhitehead@isd110.org
+87,Waconia Public Schools,55387,MN,Waconia,960 Airport Road,Williamson,Kasja,Emotional Behavior Disorders Teacher,(952) 442-0630,kwilliamson@isd110.org
