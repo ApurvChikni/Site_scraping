@@ -80,11 +80,11 @@ class ExampleSpider(scrapy.Spider):
             full_name = sel_div.xpath('.//*[@class="title"]/text()').get()
             if ',' in full_name:
                 try:
-                    final_item['first_name'] = full_name.split(",")[0].strip()
+                    final_item['first_name'] = full_name.split(",")[1].strip()
                 except:
                     final_item['first_name']=''
                 try:
-                    final_item['last_name'] = full_name.split(",")[1].strip()
+                    final_item['last_name'] = full_name.split(",")[0].strip()
                 except:
                     final_item['last_name']=''
             try:
